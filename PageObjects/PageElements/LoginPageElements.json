@@ -1,0 +1,8 @@
+{
+    "loginPageLocators" : {
+        "userName_txt" : "#email",
+        "password_txt" : "#password",
+        "login_btn" : "input[type='submit']",
+        "logout_btn" : "input[value='Log out']"
+    }
+}

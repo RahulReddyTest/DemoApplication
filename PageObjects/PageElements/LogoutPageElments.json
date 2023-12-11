@@ -1,0 +1,5 @@
+{
+    "logoutPageLocators" : {
+        "logout_btn" : "input[value = 'Log out']"
+    }
+}

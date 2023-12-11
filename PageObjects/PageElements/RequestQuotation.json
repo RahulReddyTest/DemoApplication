@@ -1,0 +1,13 @@
+{
+    "RequestQuotation" : {
+        "incidents_txt" : "#quotation_incidents",
+        "regestration_txt" : "#quotation_vehicle_attributes_registration",
+        "anualMileage_txt" : "#quotation_vehicle_attributes_mileage",
+        "estimatedValue_txt" : "#quotation_vehicle_attributes_value",
+        "parkingLocation_drp" : "#quotation_vehicle_attributes_parkinglocation",
+        "startOfPolicy_year_drp" : "#quotation_vehicle_attributes_policystart_1i",
+        "startOfPolicy_month_drp" : "#quotation_vehicle_attributes_policystart_2i",
+        "startOfPolicy_date_drp" : "#quotation_vehicle_attributes_policystart_3i",
+        "saveQuotation_btn" : "Save Quotation"
+    }
+}

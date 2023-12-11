@@ -1,0 +1,6 @@
+{
+    "RetrieveQuotation" : {
+       "identificationNumber_txt" : "input[name='id']",
+       "retrieve_btn" : "#getquote"
+    }
+}
